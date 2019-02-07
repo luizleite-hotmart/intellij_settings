@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="MailBackofficeController" type="CLASS" />
       <mapping ext="cj" type="Clojure" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

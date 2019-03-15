@@ -14,7 +14,7 @@
           <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Enter'</ShortCut>
           <Description>Commit</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SendEmailIntegrationTest.sendEmailSoldOutProduct'">

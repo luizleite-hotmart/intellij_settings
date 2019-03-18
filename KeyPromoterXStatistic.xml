@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cancel Running Statements">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Cancel Running Statements</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'SendEmailIntegrationTest.sendEmailSoldOutProduct'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>

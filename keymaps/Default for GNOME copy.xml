@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>

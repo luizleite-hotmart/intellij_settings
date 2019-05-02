@@ -3,8 +3,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonarqube.vulcano.rocks" />
-          <token>df9fdfc9dfccdfcfdf92df9bdfccdf98df9cdf9bdf99df99dfcfdf98df9fdfccdfcfdf9edfccdfcedf92dfcfdfc9df98dfc9df92df92dfc9df92df9fdf9bdf9ddfcfdf9ddf9fdf98df9ddfc8dfc8dfcb</token>
+          <option name="hostUrl" value="https://sonarqube.vulcano.rocks/" />
+          <token>df9fdf9ddfc9df93df9cdf9ddfcedfcbdf9bdf99df9cdf9fdf98df9edfcfdf98df9edfc8dfcbdf9fdfc8dfcfdf9cdfc8df92dfcfdf9cdf9edf9fdf9fdf98df99df9adf98df9edf99df9edfcbdf92df93</token>
           <option name="name" value="sonar hotmart" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>

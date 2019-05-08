@@ -105,6 +105,14 @@
           <Count>92</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Detach Gradle project">
+        <Item>
+          <IdeaActionID>ExternalSystem.DetachProject</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Detach Gradle project</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Disconnect">
         <Item>
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>

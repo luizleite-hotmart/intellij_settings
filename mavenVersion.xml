@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" embedderJdk="11" />
+  <component name="MavenVersion" embedderJdk="11" mavenHome="$USER_HOME$/Documents/devoxx2019/getting-started" />
 </application>

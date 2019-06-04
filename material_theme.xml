@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
-    <option name="isHighContrast" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="selectedTheme" value="ONE_LIGHT" />
     <option name="userId" value="-583bb742:169c434a8df:-8000" />
     <option name="version" value="3.8.0.2" />
   </component>

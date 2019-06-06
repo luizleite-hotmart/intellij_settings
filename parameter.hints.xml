@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.starfleet.status.entity.repository.HotAlertRepository.findByName(c)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

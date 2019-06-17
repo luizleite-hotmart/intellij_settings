@@ -46,7 +46,7 @@
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
           <ShortCut>'Alt+L'</ShortCut>
           <Description>Clear All</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">

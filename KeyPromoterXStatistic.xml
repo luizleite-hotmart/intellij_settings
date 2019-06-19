@@ -174,7 +174,7 @@
           <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Duplicate</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -262,7 +262,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Referenced Data">
